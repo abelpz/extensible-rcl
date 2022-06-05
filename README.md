@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/gatewaydevs/styleguidist-template">
-    <img src="https://socialify.git.ci/gatewaydevs/extensible-rcl/image?descriptionEditable=&issues=1&language=1&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F3135%2F3135108.png&name=1&owner=1&pattern=Brick%20Wall&pulls=1&theme=Light" alt="extensible-rcl" width="640" height="320" />
+    <img src="https://socialify.git.ci/gatewaydevs/extensible-rcl/image?descriptionEditable=&issues=1&language=1&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F3135%2F3135108.png&name=1&owner=1&pattern=Brick%20Wall&pulls=1&theme=Light" alt="extensible-rcl" />
   </a>
   <p align="center">
     A React Utility Components Library for extending components
