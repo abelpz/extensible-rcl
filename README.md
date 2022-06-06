@@ -25,20 +25,20 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/gatewaydevs/styleguidist-template">
+  <a href="https://github.com/gatewaydevs/extensible-rcl">
     <img src="https://socialify.git.ci/gatewaydevs/extensible-rcl/image?descriptionEditable=&issues=1&language=1&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F3135%2F3135108.png&name=1&owner=1&pattern=Brick%20Wall&pulls=1&theme=Light" alt="extensible-rcl" />
   </a>
   <p align="center">
-    A React Utility Components Library for RCL designers.
+    A React Utility Components Library for RCL developers
     <br />
-    <a href="https://styleguidist-template.netlify.app"><strong>Explore the docs and code playground »</strong></a>
+    <a href="https://extensible-rcl.netlify.app"><strong>Explore the docs and code playground »</strong></a>
     <br />
     <br />
-    <a href="https://styleguidist-template.netlify.app">View Demo</a>
+    <a href="https://extensible-rcl.netlify.app">View Demo</a>
     ·
-    <a href="https://github.com/gatewaydevs/styleguidist-template/issues">Report Bug</a>
+    <a href="https://github.com/gatewaydevs/extensible-rcl/issues">Report Bug</a>
     ·
-    <a href="https://github.com/gatewaydevs/styleguidist-template/issues">Request Feature</a>
+    <a href="https://github.com/gatewaydevs/extensible-rcl/issues">Request Feature</a>
   </p>
 </div>
 
@@ -74,14 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-**Purpose:**
-@styleguidist-template-purpose
-
-**Problem:**
-@styleguidist-template-problem
-
-**Scope:**
-@styleguidist-template-scope
+**Extensible** allows RCL (React Components Libraries) developers to easily add extensibility support to their Components.
 
 **Architecture and Design Principles:**
 See ARCHITECTURE.md for details on architecture and design principles for this project.
@@ -104,12 +97,11 @@ See ARCHITECTURE.md for details on architecture and design principles for this p
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-
 ### Prerequisites
 
 **Data**
 
-This is an example of how to list things you need to use the software and how to install them.
+This is an example of how to list things you need to use the library and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
@@ -117,18 +109,18 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation/First Steps
 
-1. Setup a React app using `Create React App` or `React Styleguidist`.
+1. Setup a React app using `Create React App` or `React Styleguidist` or any other method.
   ```sh
-  npx create-react-app styleguidist-template-app
+  npx create-react-app my-app
   ```
 2. Add it to your React app or component library (inside your project path):
   * yarn
   ```sh
-  yarn add styleguidist-template
+  yarn add extensible-rcl
   ```
   * npm
   ```sh
-  npm i styleguidist-template
+  npm i extensible-rcl
   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -139,7 +131,7 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Styleguidist](https://styleguidist-template.netlify.app/#usepermalinks)._
+_For more examples, please refer to the [Styleguidist](https://extensible-rcl.netlify.app/#extensible)._
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -147,10 +139,10 @@ _For more examples, please refer to the [Styleguidist](https://styleguidist-temp
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] [Return `data` fetched using url params](https://github.com/gatewaydevs/styleguidist-template/issues/16)
-- [ ] [Change path dynamically depending on app state](https://github.com/gatewaydevs/styleguidist-template/issues/4)
+<!-- - [ ] [Return `data` fetched using url params](https://github.com/gatewaydevs/extensible-rcl/issues/16)
+- [ ] [Change path dynamically depending on app state](https://github.com/gatewaydevs/extensible-rcl/issues/4) -->
 
-See the [open issues](https://github.com/gatewaydevs/styleguidist-template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/gatewaydevs/extensible-rcl/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -163,7 +155,7 @@ Contributions are what make the open source community such an amazing place to l
 You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
-If you would like to fork the repo and create a pull request. 
+If you would like to fork the repo and create a pull request.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -185,9 +177,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-@styleguidist-template-contact
+@extensible-rcl-contact
 
-Project Link: [https://github.com/gatewaydevs/styleguidist-template](https://github.com/gatewaydevs/styleguidist-template)
+Project Link: [https://github.com/gatewaydevs/extensible-rcl](https://github.com/gatewaydevs/extensible-rcl)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -197,7 +189,6 @@ Project Link: [https://github.com/gatewaydevs/styleguidist-template](https://git
 ## Acknowledgments
 
 * [Abel Perez](https://github.com/gatewaydevs)
-* [klappy](https://github.com/klappy)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -205,14 +196,14 @@ Project Link: [https://github.com/gatewaydevs/styleguidist-template](https://git
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/gatewaydevs/styleguidist-template.svg?style=flat
-[contributors-url]: https://github.com/gatewaydevs/styleguidist-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gatewaydevs/styleguidist-template.svg?style=flat
-[forks-url]: https://github.com/gatewaydevs/styleguidist-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/gatewaydevs/styleguidist-template.svg?style=flat
-[stars-url]: https://github.com/gatewaydevs/styleguidist-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/gatewaydevs/styleguidist-template.svg?style=flat
-[issues-url]: https://github.com/gatewaydevs/styleguidist-template/issues
-[license-shield]: https://img.shields.io/github/license/gatewaydevs/styleguidist-template.svg?style=flat
-[license-url]: https://github.com/gatewaydevs/styleguidist-template/blob/master/LICENSE
-[product-screenshot]: https://github.com/gatewaydevs/styleguidist-template/raw/master/public/screen-shot.png
+[contributors-shield]: https://img.shields.io/github/contributors/gatewaydevs/extensible-rcl.svg?style=flat
+[contributors-url]: https://github.com/gatewaydevs/extensible-rcl/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gatewaydevs/extensible-rcl.svg?style=flat
+[forks-url]: https://github.com/gatewaydevs/extensible-rcl/network/members
+[stars-shield]: https://img.shields.io/github/stars/gatewaydevs/extensible-rcl.svg?style=flat
+[stars-url]: https://github.com/gatewaydevs/extensible-rcl/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gatewaydevs/extensible-rcl.svg?style=flat
+[issues-url]: https://github.com/gatewaydevs/extensible-rcl/issues
+[license-shield]: https://img.shields.io/github/license/gatewaydevs/extensible-rcl.svg?style=flat
+[license-url]: https://github.com/gatewaydevs/extensible-rcl/blob/master/LICENSE
+[product-screenshot]: https://github.com/gatewaydevs/extensible-rcl/raw/master/public/screen-shot.png

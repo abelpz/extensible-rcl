@@ -16,10 +16,10 @@ module.exports = {
   usageMode: 'expand',
   exampleMode: 'expand',
   components: 'src/documentation/**/*.{js,jsx,ts,tsx}',
-  moduleAliases: { 'styleguidist-template': path.resolve(__dirname, 'src') },
+  moduleAliases: { 'extensible-rcl': path.resolve(__dirname, 'src') },
   getComponentPathLine: componentPath => {
     const name = path.basename(componentPath, '.js');
-    return `import { ${name.split('.')[0]} } from 'styleguidist-template';`;
+    return `import { ${name.split('.')[0]} } from 'extensible-rcl';`;
   },
   handlers: componentPath => (
     require('react-docgen').defaultHandlers.concat(

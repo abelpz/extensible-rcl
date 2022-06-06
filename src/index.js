@@ -1,8 +1,7 @@
-import useExample from './hooks/useExample';
-
-import * as example from './helpers/example';
+import Extensible from './components/Extensible';
+import extensible from './components/ExtensibleHOC'
 
 export {
-  useExample,
-  example
+  Extensible,
+  extensible
 };

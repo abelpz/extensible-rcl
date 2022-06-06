@@ -1,5 +1,5 @@
 import React from 'react';
 
-export default function useExample() {
+export default function Extensible() {
   return (<></>);
 };
