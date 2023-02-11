@@ -116,11 +116,11 @@ This is an example of how to list things you need to use the library and how to 
 2. Add it to your React app or component library (inside your project path):
   * yarn
   ```sh
-  yarn add extensible-rcl
+  yarn add @gwdevs/extensible-rcl
   ```
   * npm
   ```sh
-  npm i extensible-rcl
+  npm i @gwdevs/extensible-rcl
   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
