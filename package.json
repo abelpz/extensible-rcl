@@ -1,7 +1,7 @@
 {
   "name": "@gwdevs/extensible-rcl",
   "description": "A collection of React Utility Components to make RCL components extensible.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "homepage": "https://extensible-rcl.netlify.app/",
   "license": "MIT",
